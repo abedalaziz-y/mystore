@@ -1,0 +1,10 @@
+.productpage{
+    background-color: white;
+    min-height: 700px;
+}
+
+.sliderimage{
+   max-height:450px;
+    object-fit: contain;
+
+}

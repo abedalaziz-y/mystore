@@ -1,0 +1,18 @@
+@media screen and (max-width: 500px) {
+
+    .slider {
+        max-width: 400px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    .slider {
+        max-width: 400px;
+    }
+}
+
+.bestsellerspage {
+    min-height: 700px;
+    background-color: rgb(255, 255, 255);
+}

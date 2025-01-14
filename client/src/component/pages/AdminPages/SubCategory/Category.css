@@ -1,0 +1,13 @@
+.select{
+    font-size: 20px;
+    text-align: center;
+}
+.product{
+        box-shadow: 2px 2px 7px 7px rgb(42, 130, 218);
+    background: linear-gradient(-90deg, #4b85b8 0%, #9c1f77c2);
+}
+.productA{
+    padding:40px;
+    box-shadow: 2px 2px 7px 7px rgb(42, 130, 218);
+    background: linear-gradient(-90deg, #4b85b8 0%, #2d0cc0c2);
+}

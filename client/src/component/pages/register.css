@@ -1,0 +1,23 @@
+
+img{
+    border-radius: 16px;
+}
+.form-container {
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+    display: table;
+    max-width: 900px;
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 4px;
+    box-shadow: 2px 2px 20px 1px var(--bs-blue);
+    color: #fff;
+    transform: translateZ(511px);
+    background: linear-gradient(100deg, #212529, rgb(66, 188, 166));
+}
+.loginhere:hover{
+   transform: translateZ(511px);
+}
+.shop{
+    min-height: 700px;
+    background-color: white;
+}
